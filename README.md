@@ -4,11 +4,13 @@ Welcome to Linux
 
 # Support of Linux Device Drivers
 
-(1) ~> Support of Api Drivers
+Support of Api Drivers
 
-(2) ~> Support of Device Drivers
+Support of Device Drivers
 
-(3) ~> Support of Gpu Drivers
+Support of Gpu Drivers
+
+Support of Wireless Drivers
 
 
 # Support Of linux Distro
@@ -31,9 +33,7 @@ DEBIANLINUX = sudo apt-get install xterm
 -----------
 
 
-# [SAHIL KAZUYA] <~> INDIAN DEVELOPER
-
- How to Install linux device drivers ?
+# How to Install linux device drivers ?
 
 (1) -> Run the CMD in Terminal 
 
@@ -45,25 +45,29 @@ NOW READ 'help.txt'
 
 -----------------------------------------------------------------------------------------------------------------------------
 
+(2) ~> Now Select your distro Folder Arch linux OR debian linux
+
+HINT:-
+
+ARCHLINUX = cd arch/
+
+DEBIANLINUX = cd debian/
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+(3) ~> Now run The Configure file 
+
+'./configure'
+
+(4) ~> Now run the Driver installer
+
+./your_distro_name.driver
+
+Arch Linux = ./arch.driver
+
+Debian Linux = ./debian.driver
+
+WARNING:DON,T RUN AS ROOT USERS BEACUSE WINE AND WINDOWS GAME DOES NOT SUPPORT ROOT USERS
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# [SAHIL KAZUYA] <~> INDIAN DEVELOPER
