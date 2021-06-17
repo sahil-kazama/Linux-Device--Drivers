@@ -10,4 +10,7 @@ Welcome To Kali Linux
 
 # SUPPORTED DISTRO FOR DRIVERS
 # ARCH LINUX
+
+or
+
 # DEBIAN LINUX
