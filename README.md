@@ -57,7 +57,7 @@ DEBIANLINUX = cd debian/
 
 (3) ~> Now run The Configure file 
 
-'./configure'
+./configure
 
 (4) ~> Now run the Driver installer
 
@@ -68,6 +68,50 @@ Arch Linux = ./arch.driver
 Debian Linux = ./debian.driver
 
 WARNING:DON,T RUN AS ROOT USERS BEACUSE WINE AND WINDOWS GAME DOES NOT SUPPORT ROOT USERS
+
+
+# How To USE the drivers ?
+
+To Start the Drivers run the CMD
+
+'linuxdrivers'
+
+OR
+
+To Stop the Drivers run the CMD
+
+'stopdrivers'
+
+To Check drivers Information
+
+'driversinfo'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # [SAHIL KAZUYA] <~> INDIAN DEVELOPER
