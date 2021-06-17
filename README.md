@@ -9,8 +9,6 @@ Welcome To Kali Linux
 (3) ~> Support of Gpu Drivers
 
 # SUPPORTED DISTRO FOR DRIVERS
-# ARCH LINUX
+# [1] ARCH LINUX
 
-or
-
-# DEBIAN LINUX
+# [2] DEBIAN LINUX
