@@ -9,10 +9,10 @@ Welcome To Kali Linux
 (3) ~> Support of Gpu Drivers
 
 # SUPPORTED DISTRO FOR DRIVERS
-# [1] ARCH LINUX
 
-# [2] DEBIAN LINUX
+[1] ARCH LINUX
 
+[2] DEBIAN LINUX
 
 
 # [SAHIL KAZUYA] <~> INDIAN DEVELOPER
