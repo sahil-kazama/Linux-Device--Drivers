@@ -26,7 +26,7 @@ Proude To India
 
 git clone https://github.com/sahil-kazama/Linux-Device-Drivers.git && cd Linux-Device-Drivers && chmod +x * && ./installer.sh
 
-cd Linux-Device-Drivers/ && chmod +x * && ls -a
+cd linux-device-drivers && ls -a
 
 Now read help.txt
 
