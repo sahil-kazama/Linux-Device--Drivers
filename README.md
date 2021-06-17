@@ -13,14 +13,11 @@ Welcome to Linux
  
 # Minimum Packages Required
 
- *************************
-
 -----------
 
 ARCHLINUX = sudo pacman -S xterm
 
-
------------
+OR
 
 DEBIANLINUX = sudo apt-get install xterm
 
