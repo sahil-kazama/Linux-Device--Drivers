@@ -33,8 +33,37 @@ DEBIANLINUX = sudo apt-get install xterm
 
 # [SAHIL KAZUYA] <~> INDIAN DEVELOPER
 
-# How to Install linux device drivers ?
+ How to Install linux device drivers ?
 
 (1) -> Run the CMD in Terminal 
 
-git clone && cd linux-device-drivers && chmod +x * && 
+git clone https://github.com/sahil-kazama/Linux-Device-Drivers.git && cd Linux-Device-Drivers && chmod +x * && ./installer.sh
+
+cd linux-device-drivers && ls -a
+
+NOW READ 'help.txt'
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
