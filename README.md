@@ -26,5 +26,46 @@ Proude To India
 
 git clone https://github.com/sahil-kazama/Linux-Device-Drivers.git && cd Linux-Device-Drivers && chmod +x * && ./installer.sh
 
+cd Linux-Device-Drivers/ && chmod +x * && ls -a
+
+Now read help.txt
+
+Now read support.txt
+
+
+# install device drivers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Congratulation You Have Successfully Installed Linux Device Drivers 
