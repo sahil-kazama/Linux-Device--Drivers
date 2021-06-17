@@ -33,6 +33,9 @@ DEBIANLINUX = sudo apt-get install xterm
 -----------
 
 
+# [SAHIL KAZUYA] <~> INDIAN DEVELOPER
+
+
 # How to Install linux device drivers ?
 
 (1) -> Run the CMD in Terminal 
@@ -123,9 +126,6 @@ To Check drivers Information
 # Congratulation You Have Successfully Installed Linux  Device Drivers
 
 thank for installing the drivers 
-
-
-# [SAHIL KAZUYA] <~> INDIAN DEVELOPER
 
 
 # My contact +91 8766317909 TALK-LANGUAGE=HINDI/ENGLISH
