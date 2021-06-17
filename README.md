@@ -118,7 +118,7 @@ OR
 
 'stopdrivers'
 
-To Check drivers Information
+OR
 
 'driversinfo'
 
