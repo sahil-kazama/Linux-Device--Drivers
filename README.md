@@ -128,5 +128,5 @@ To Check drivers Information
 thank for installing the drivers 
 
 
-# My contact +91 8766317909 TALK-
-LANGUAGE=HINDI/ENGLISH
+# My contact +91 8766317909 TALK
+# LANGUAGE=HINDI/ENGLISH
