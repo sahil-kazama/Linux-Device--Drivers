@@ -70,6 +70,37 @@ Debian Linux = ./debian.driver
 WARNING:DON,T RUN AS ROOT USERS BEACUSE WINE AND WINDOWS GAME DOES NOT SUPPORT ROOT USERS
 
 
+# How to install Graphic Drivers in Linux ?
+
+(1) ~> Now run the CMD in Terminal
+
+cd gpu/
+
+(2) ~> Now Select your platform AMD or INTEl or NVIDIA and go to directory
+
+AMDGPU = cd amd-graphics-drivers/
+
+INTELGPU = cd intel-graphics-drivers/
+
+NVIDIAGPU = cd nvidia-graphics-drivers/
+
+(3) ~> Mount the driver installer
+
+chmod +x *
+
+(4) ~> now Run the CMD in Terminal
+
+your_platform_name.driver
+
+AMD = ./amd.driver
+
+INTEL = ./intel.driver
+
+NVIDIA = ./nvidia.driver
+
+NOW WAIT FOR INSTALL THE GPU DRIVERS
+
+
 # How To USE the drivers ?
 
 To Start the Drivers run the CMD
@@ -87,31 +118,12 @@ To Check drivers Information
 'driversinfo'
 
 
+# Congratulation You Have Successfully Installed Linux  Device Drivers
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+thank for installing the drivers 
 
 
 # [SAHIL KAZUYA] <~> INDIAN DEVELOPER
+
+
+My contact +91 8766317909 TALK-LANGUAGE=HINDI/ENGLISH
