@@ -52,9 +52,9 @@ NOW READ 'help.txt'
 
 HINT:-
 
-ARCHLINUX = cd arch/
+ARCHLINUX = cd arch/ && ls 
 
-DEBIANLINUX = cd debian/
+DEBIANLINUX = cd debian/ && ls
 
 -----------------------------------------------------------------------------------------------------------------------------
 
