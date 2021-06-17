@@ -10,7 +10,14 @@ Welcome to Linux
 
 (3) ~> Support of Gpu Drivers
 
- 
+
+# Support Of linux Distro
+
+Arch Linux
+
+Debian Linux
+
+
 # Minimum Packages Required
 
 -----------
@@ -22,13 +29,6 @@ OR
 DEBIANLINUX = sudo apt-get install xterm
 
 -----------
-
-
-# Support Of linux Distro
-
-Arch Linux
-
-Debian Linux
 
 
 # [SAHIL KAZUYA] <~> INDIAN DEVELOPER
