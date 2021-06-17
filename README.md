@@ -77,15 +77,15 @@ WARNING:DON,T RUN AS ROOT USERS BEACUSE WINE AND WINDOWS GAME DOES NOT SUPPORT R
 
 (1) ~> Now run the CMD in Terminal
 
-cd gpu/
+cd gpu/ && ls
 
 (2) ~> Now Select your platform AMD or INTEl or NVIDIA and go to directory
 
-AMDGPU = cd amd-graphics-drivers/
+AMDGPU = cd amd-graphics-drivers/ && ls
 
-INTELGPU = cd intel-graphics-drivers/
+INTELGPU = cd intel-graphics-drivers/ && ls
 
-NVIDIAGPU = cd nvidia-graphics-drivers/
+NVIDIAGPU = cd nvidia-graphics-drivers/ && ls
 
 (3) ~> Mount the driver installer
 
