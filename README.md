@@ -1,4 +1,4 @@
-# Device-Driver For Linux
+# Drivers For Linux
 Welcome to Linux
 
 
@@ -123,9 +123,10 @@ To Check drivers Information
 'driversinfo'
 
 
-# Congratulation You Have Successfully Installed Linux  Device Drivers
+# Congratulation You Have Successfully Installed Linux Device Drivers
 
 thank for installing the drivers 
 
 
-# My contact +91 8766317909 TALK-LANGUAGE=HINDI/ENGLISH
+# My contact +91 8766317909 TALK-
+LANGUAGE=HINDI/ENGLISH
